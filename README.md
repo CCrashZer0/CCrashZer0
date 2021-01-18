@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CCrashZer0</h1>
 <h3 align="center">A passionate ethical hacker and curious individual</h3>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ComputerCrash0.png" alt="TryHackMe">
-<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccrashzer0" alt="ccrashzer0" /></a> </p>
 
